@@ -1,14 +1,13 @@
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F5FFFA&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Carlos+André+:%29!;I'm+18+years+old;I'm+from+Brazil;Be+Welcome!+<3)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F5FFFA&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Carlos+André+:%29!;Front-End+developer+from+Brazil;Be+Welcome!+<3)](https://git.io/typing-svg)
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cavdrew&show_icons=true&theme=dracula&include_all_commits=true&count_private=truecolor=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cavdrew&layout=compact&langs_count=7&theme=draculacolor=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cavdrew&show_icons=true&theme=dracula&include_all_commits=true&count_private=truecolor=F5FFFA&icon_color=F5FFFA&text_color=F5FFFA&bg_color=0d1117"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cavdrew&layout=compact&langs_count=7&theme=draculacolor=F5FFFA4&icon_color=F5FFFA&text_color=F5FFFA&bg_color=0d1117"/>
 </div>
+
+### Connect with me:
  
-<div align="center"> 
+<div > 
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white/)](https://t.me/cavdrew)
 <a href = "mailto:aderaldocaav@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
