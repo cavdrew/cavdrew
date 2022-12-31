@@ -1,9 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F5FFFA&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Carlos+André+:%29!;Front-End+developer+from+Brazil;Be+Welcome!+<3)](https://git.io/typing-svg)
+![image](https://user-images.githubusercontent.com/112827620/210153510-0696c4bf-c405-4a0f-94ff-a7b87b997bcd.png)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F5FFFA&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Carlos+André+:%29!;Front-End+Developer+from+Brazil;Welcome+to+my+github+<3)](https://git.io/typing-svg)
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cavdrew&show_icons=true&theme=dracula&include_all_commits=true&count_private=truecolor=F5FFFA&icon_color=F5FFFA&text_color=F5FFFA&bg_color=0d1117"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cavdrew&layout=compact&langs_count=7&theme=draculacolor=F5FFFA4&icon_color=F5FFFA&text_color=F5FFFA&bg_color=0d1117"/>
 </div>
+<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1396703/screenshots/3952983/pixel-goust-2.gif" width="320" height="320" /> 
 
 ### Connect with me:
  
