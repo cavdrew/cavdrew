@@ -6,7 +6,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cavdrew&show_icons=true&theme=dracula&include_all_commits=true&count_private=truecolor=F5FFFA&icon_color=F5FFFA&text_color=F5FFFA&bg_color=0d1117"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cavdrew&layout=compact&langs_count=7&theme=draculacolor=F5FFFA4&icon_color=F5FFFA&text_color=F5FFFA&bg_color=0d1117"/>
 </div>
-<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1396703/screenshots/3952983/pixel-goust-2.gif" width="320" height="320" /> 
+<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1396703/screenshots/3952983/pixel-goust-2.gif" width="250" height="250" /> 
 
 ### Connect with me:
  
