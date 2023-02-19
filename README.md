@@ -16,7 +16,7 @@ Hey
 
 - 🤝 **I’m looking for help with new learnings and technologies**
 
-- 💬 **Ask me about HTML, CSS, JavaScript, React, Angular, Vue**
+- 💬 **Ask me about HTML, CSS, JavaScript, React, Angular or Vue**
 
 <h3 align="left">🔗 Social</h3>
 <div > 
