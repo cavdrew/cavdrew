@@ -2,20 +2,21 @@
 Hey
   <img align="center" alt="Coding" width="30px" src="https://gist.githubusercontent.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/Hi.gif">,I'm Carlos</h1>
 
-<h3 align="center">A Front-End Developer from Brazil</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cavdrew&label=Profile%20views&color=0e75b6&style=flat" alt="cavdrew" /> </p>
 
-- 💻 Front-End Developer 
+- 💻 **Front-End Developer**
 
-- 📚 I’m currently learning **Python and SQL**
+- 🏠 **I'm from Brazil, Fortaleza-CE**
 
-- 🎎 I’m looking to collaborate on **new projects**
+- 📚 **I’m currently learning Python and SQL**
 
-- 🤝 I’m looking for help with **new learnings and technologies**
+- 🎎 **I’m looking to collaborate on new projects**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Angular, Vue**
+- 🤝 **I’m looking for help with new learnings and technologies**
+
+- 💬 **Ask me about HTML, CSS, JavaScript, React, Angular, Vue**
 
 <h3 align="left">🔗 Social</h3>
 <div > 
