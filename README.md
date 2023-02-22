@@ -10,11 +10,11 @@ Hey
 
 - 🏠 **I'm from Brazil, Fortaleza-CE**
 
+- 🤝 **I’m looking for new job opportunities**
+
 - 📚 **I’m currently learning Python and SQL**
 
 - 🎎 **I’m looking to collaborate on new projects**
-
-- 🤝 **I’m looking for help with new learnings and technologies**
 
 - 💬 **Ask me about HTML, CSS, JavaScript, TypeScript, ReactJs, VueJs or Tailwind**
 
