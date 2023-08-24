@@ -8,11 +8,11 @@ Hey
 
 - 💻 **Front-End Developer**
 
+- 📚 **I’m currently learning Java**
+
 - 🏠 **I'm from Brazil, Fortaleza-CE**
 
 - 🤝 **I’m looking for new job opportunities**
-
-- 📚 **I’m currently learning Python and SQL**
 
 - 🎎 **I’m looking to collaborate on new projects**
 
@@ -21,7 +21,7 @@ Hey
 <h3 align="left">🔗 Social</h3>
 <div > 
 
-<a href="https://linkedin.com/in/cavdrew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cavdrew" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/cavdrew/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cavdrew" height="30" width="40" /></a>
 <a href="mailto:carlosv.profissional@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/112827620/220115748-ea8cd6db-7f25-4405-8ae7-c49c80f10652.png" alt="cavdrew" height="25" width="35" /></a>
 <a href="https://instagram.com/cavdrew_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cavdrew_" height="30" width="40" /></a>
 <a href="https://github.com/cavdrew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="cavdrew_" height="30" width="40" /></a>
